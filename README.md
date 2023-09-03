@@ -1,4 +1,4 @@
-# Rent-A-Car
+# Rent-Car
 
 ### Project Description:
 
